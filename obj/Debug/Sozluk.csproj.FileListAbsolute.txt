@@ -1,0 +1,10 @@
+H:\Sozluk\Sozluk\bin\Debug\Sozluk.exe.config
+H:\Sozluk\Sozluk\bin\Debug\Sozluk.exe
+H:\Sozluk\Sozluk\bin\Debug\Sozluk.pdb
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.Form1.resources
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.Properties.Resources.resources
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.csproj.GenerateResource.cache
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.csproj.CoreCompileInputs.cache
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.exe
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.pdb
+H:\Sozluk\Sozluk\obj\Debug\Sozluk.csprojAssemblyReference.cache
